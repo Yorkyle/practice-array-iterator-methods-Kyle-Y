@@ -34,7 +34,7 @@ console.log(squares);
 
 
 /*
-Task 3: Filtering with fi lter()
+Task 3: Filtering with filter()
 1. Create an array called scores containing the numbers 85, 42, 90, 75, 30, and 100.
 2. Use filter ( ) to create a new array containing only the scores greater than or equal to 80. Call this array highScores.
 3. Log the new array.
